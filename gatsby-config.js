@@ -5,7 +5,7 @@ module.exports = {
     title: 'Brendan Tsuda',
     description:
       'Brendan Tsuda is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'brendan-tsuda.netlify.app', // No trailing slash allowed!
+    siteUrl: 'https://brendan-tsuda.netlify.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
   },
   plugins: [
