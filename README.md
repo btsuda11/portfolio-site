@@ -10,7 +10,7 @@
   <a href="https://github.com/btsuda11/portfolio-site/blob/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg" />
   </a>
-  <a href="https://app.netlify.com/sites/amandanas/deploys" target="_blank">
+  <a href="https://app.netlify.com/sites/brendan-tsuda/deploys" target="_blank">
     <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/61000252-48c2-46e6-baf3-e59c7339cc32/deploy-status" />
   </a>
 </p>
