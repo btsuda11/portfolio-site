@@ -23,7 +23,7 @@
 
 ## ✨ Features
 
-Visit my portfolio site at [](https:///)
+Visit my portfolio site at [brendan-tsuda.netlify.app](https://brendan-tsuda.netlify.app)
 
 - You can view my work experiences and skills.
 - You can view my featured projects.
@@ -57,6 +57,6 @@ Runs the app in development mode. Open [http://localhost:8000](http://localhost:
 Copyright © 2018 [Brittany Chiang](https://github.com/bchiang7).<br />
 This project is [MIT](https://github.com/amndns/web-portfolio/blob/master/LICENSE) licensed.
 
+---
 
-***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
