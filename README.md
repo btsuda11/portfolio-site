@@ -1,87 +1,62 @@
-<div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
-</div>
-<h1 align="center">
-  brittanychiang.com - v4
-</h1>
+<h1 align="center">Web Portfolio</h1>
 <p align="center">
-  The fourth iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
-</p>
-<p align="center">
-  Previous iterations:
-  <a href="https://github.com/bchiang7/v1" target="_blank">v1</a>,
-  <a href="https://github.com/bchiang7/v2" target="_blank">v2</a>,
-  <a href="https://github.com/bchiang7/bchiang7.github.io" target="_blank">v3</a>
-</p>
-<p align="center">
-  <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
-    <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://github.com/btsuda11/portfolio-site/blob/master/README.md" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="https://github.com/btsuda11/portfolio-site/graphs/commit-activity" target="_blank">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  </a>
+  <a href="https://github.com/btsuda11/portfolio-site/blob/master/LICENSE" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg" />
+  </a>
+  <a href="https://app.netlify.com/sites/amandanas/deploys" target="_blank">
+    <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/61000252-48c2-46e6-baf3-e59c7339cc32/deploy-status" />
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
+> The first iteration of my personal website. This project is a modified version of the original, created and designed by [Brittany Chiang](https://github.com/bchiang7/v4).
 
-## 🚨 Forking this repo (please read!)
+<p align="center">
+  <img width="720" align="center" src="src/images/demo.png" alt="demo"/>
+</p>
 
-Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
+## ✨ Features
 
-I value keeping my site open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my site without giving me credit. I spent a non-trivial amount of effort building and designing this iteration of my website, and I am proud of it! All I ask of you all is to not claim this effort as your own.
+Visit my portfolio site at [](https:///)
 
-Please also note that I did not build this site with the intention of it being a starter theme, so if you have questions about implementation, please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/).
+- You can view my work experiences and skills.
+- You can view my featured projects.
+- You can contact me through the website.
+- You can download my resume.
 
-### TL;DR
+Give a ⭐️ if you loved this version of the project!
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+## 🛠 Built With
 
-## 🛠 Installation & Set Up
+- [Gatsby React](https://www.gatsbyjs.com/) - Frontend
+- [Brittany Chiang](https://github.com/bchiang7/v4) - Theme Template
+- [Anime.js](https://animejs.com/) - Animations
 
-1. Install the Gatsby CLI
+## 🚀 Get Started
 
-   ```sh
-   npm install -g gatsby-cli
-   ```
+This project was forked from Brittany Chiang's [v4 Portfolio](https://github.com/bchiang7/v4).
 
-2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
+Below is a guide on the common commands you might use throughout the development process. In the root directory, you can run:
 
-   ```sh
-   nvm install
-   ```
+#### `yarn install`
 
-3. Install dependencies
+Installs all package dependencies of the app. Make sure you have [yarn](https://yarnpkg.com/) installed and configured first.
 
-   ```sh
-   yarn
-   ```
+#### `yarn develop`
 
-4. Start the development server
+Runs the app in development mode. Open [http://localhost:8000](http://localhost:8000) to view it in the browser. The page will reload if you make edits. You will also see any lint errors in the console.
 
-   ```sh
-   npm start
-   ```
+## 📝 License
 
-## 🚀 Building and Running for Production
+Copyright © 2018 [Brittany Chiang](https://github.com/bchiang7).<br />
+This project is [MIT](https://github.com/amndns/web-portfolio/blob/master/LICENSE) licensed.
 
-1. Generate a full static production build
 
-   ```sh
-   npm run build
-   ```
-
-1. Preview the site as it will appear once deployed
-
-   ```sh
-   npm run serve
-   ```
-
-## 🎨 Color Reference
-
-| Color          | Hex                                                                |
-| -------------- | ------------------------------------------------------------------ |
-| Navy           | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) `#0a192f` |
-| Light Navy     | ![#112240](https://via.placeholder.com/10/0a192f?text=+) `#112240` |
-| Lightest Navy  | ![#233554](https://via.placeholder.com/10/303C55?text=+) `#233554` |
-| Slate          | ![#8892b0](https://via.placeholder.com/10/8892b0?text=+) `#8892b0` |
-| Light Slate    | ![#a8b2d1](https://via.placeholder.com/10/a8b2d1?text=+) `#a8b2d1` |
-| Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
-| White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
-| Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
