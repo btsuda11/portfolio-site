@@ -7,7 +7,7 @@ tech:
   - JavaScript
   - React / Redux
   - Ruby on Rails
-  - postgreSQL
+  - PostgreSQL
   - HTML5 & CSS3
   - AWS
 company: 'App Academy'

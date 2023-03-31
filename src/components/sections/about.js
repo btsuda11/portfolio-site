@@ -127,21 +127,25 @@ const About = () => {
 
   const skills = [
     'JavaScript (ES6+)',
-    'React',
+    'TypeScript',
+    'React.js',
     'Redux',
     'Ruby',
     'Ruby on Rails',
     'Python',
-    'HTML5 & CSS3',
+    'Swift',
+    'HTML/CSS',
+    'Tailwind CSS',
     'SQL',
     'PostgreSQL',
     'Node.js',
-    'Express',
+    'Express.js',
     'Mongoose.js',
     'MongoDB',
     'Canvas',
-    'AWS',
+    'AWS (S3 & EC2)',
     'Webpack',
+    'Git',
   ];
 
   return (
@@ -152,17 +156,23 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brendan and I'm a full-stack software engineer based in the San Francsico Bay Area. My
-              interest in web development started a few years back in college (<a href='https://www.berkeley.edu/'>UC Berkeley</a>) when I decided to take a computer science course as a 
-              Chemistry major. The projects we worked on gave me the gratification of seeing my work realized as a meaningful product.
+              Hello! My name is Brendan and I'm a full-stack software engineer based in the San
+              Francsico Bay Area. In my free time, I like to play and watch basketball 🏀 and tennis
+              🎾 and watch anime! My interest in web development started a few years back in college
+              (<a href="https://www.berkeley.edu/">UC Berkeley</a>) when I decided to take a
+              computer science course as a Chemistry major. The projects we worked on gave me the
+              gratification of seeing my work realized as a meaningful product.
             </p>
 
             <p>
               Fast-forward to today, I’ve had the privilege of working at a{' '}
-              <a href="https://www.scripps.edu/science-and-medicine/calibr/">top-notch research institute</a>,{' '}
-              but ultimately, decided to shift my career to pursue software engineering further. I recently graduated 
-              from <a href='https://www.appacademy.io/'>App Academy</a>, a 16-week intensive web development bootcamp, and am
-              excited to continue to develop my skills as a Software Engineer and contribute to a team!
+              <a href="https://www.scripps.edu/science-and-medicine/calibr/">
+                top-notch research institute
+              </a>
+              , but ultimately, decided to shift my career to pursue software engineering further. I
+              recently graduated from <a href="https://www.appacademy.io/">App Academy</a>, a
+              16-week intensive web development bootcamp, and am excited to continue to develop my
+              skills as a Software Engineer and contribute to a team!
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

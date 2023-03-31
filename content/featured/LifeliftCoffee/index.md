@@ -8,7 +8,7 @@ tech:
   - JavaScript
   - React/Redux
   - Ruby on Rails
-  - postgreSQL
+  - PostgreSQL
 ---
 
 A single-page coffee website clone based on <a href='https://lifeboostcoffee.com/'>Lifeboost Coffee</a> where users can view, purchase, review, and search for various coffee products.
