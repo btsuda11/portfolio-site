@@ -1,11 +1,12 @@
 ---
 date: '2023-02-01'
-title: 'Full Stack Developer (Pro Bono)'
+title: 'Engineering Team Lead'
 company: 'American Youth Literacy Foundation'
 location: ''
 range: 'February 2023 - Present'
 url: 'https://funetix.org/'
 ---
 
-- Lead the development of a new web-based diacritics/word game application for children, which significantly enhances the learning experience and contributes to the success of the FUNetix website.
-- Collaborate with the founding and executive directors to identify and prioritize new web feature requests, ensuring that the website remains up-to-date and competitive.
+- Organize and direct the engineering team for web applications, establishing clear roles and responsibilities through Smartsheet and fostering a productive work environment.
+- Implement a robust CI/CD pipeline for the project, automating build and deployment processes, resulting in increased efficiency and accelerated development cycles.
+- Lead development for the organization's first web game, working closely with other developers to implement game features with React functional components using a Git workflow with pull requests to ensure high code quality.
